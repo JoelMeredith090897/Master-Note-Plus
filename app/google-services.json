@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "693427398539",
+    "firebase_url": "https://react-native-auth-bc0b9.firebaseio.com",
+    "project_id": "react-native-auth-bc0b9",
+    "storage_bucket": "react-native-auth-bc0b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693427398539:android:14debde7f00e9a17",
+        "android_client_info": {
+          "package_name": "com.example.masternoteplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693427398539-tu574610g4om2nqsm9l3qag7c6bisp86.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.masternoteplus",
+            "certificate_hash": "45025e28661749cf3369005fc75f38518a9bdb89"
+          }
+        },
+        {
+          "client_id": "693427398539-fhl62h4pv8miq5rhb8jnu71mv6rqu6po.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQdfY5lQkjP2JcXhhhBcwBiriGoS5OWsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693427398539-fhl62h4pv8miq5rhb8jnu71mv6rqu6po.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
